@@ -56,7 +56,7 @@ The dataset contains tweets labeled with:
    jupyter notebook PRODIGY_DS_03.ipynb
    ```
 
-## 📂 Project Structure
+**## 📂 Project Structure**
 
 ```
 PRODIGY_DS_03/
@@ -66,14 +66,14 @@ PRODIGY_DS_03/
 ├── README.md                  # Project documentation
 ```
 
-## 📌 Future Improvements
+**## 📌 Future Improvements**
 
 * Deploy the model with live Twitter data using Tweepy or Twitter API.
 * Incorporate named entity recognition (NER) to dynamically extract brands/topics.
 * Perform time-based sentiment trends.
 * Train a custom classifier for sentiment prediction.
 
-## 👤 Author
+**## 👤 Author**
 
 * **Y. Narmadha** – [GitHub](https://github.com/your-username)
 * MCA Student, SITS,Hyderabad
