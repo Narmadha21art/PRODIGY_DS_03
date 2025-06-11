@@ -40,7 +40,7 @@ The dataset contains tweets labeled with:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-````
+
 
 2. Install required libraries:
 
@@ -52,10 +52,8 @@ The dataset contains tweets labeled with:
 
 4. Open the notebook:
 
-   ```bash
-   jupyter notebook PRODIGY_DS_03.ipynb
-   ```
 
+   jupyter notebook PRODIGY_DS_03.ipynb
 **## 📂 Project Structure**
 
 ```
@@ -78,7 +76,6 @@ PRODIGY_DS_03/
 * **Y. Narmadha** – [GitHub](https://github.com/your-username)
 * MCA Student, SITS,Hyderabad
 
----
 
 📬 For any queries or suggestions, feel free to open an issue or contact me at:
 📧 [narmadhayadav33@gmail.com](mailto:narmadhayadav33@gmail.com)
